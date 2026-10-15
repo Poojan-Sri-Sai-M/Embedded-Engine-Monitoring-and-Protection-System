@@ -1,4 +1,4 @@
-# ECA-detection
+# Embedded Engine Monitoring and Protection System
 ## Wokwi Simulation
 
 The circuit and embedded-system behavior can be explored using the Wokwi online simulator.
